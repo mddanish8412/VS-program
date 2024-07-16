@@ -1,0 +1,2 @@
+java is object oriented programming language
+and java is a platform independent
